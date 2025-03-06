@@ -16,33 +16,18 @@ int main()
     
 
 // }
-// {
-//     int a ,b;
-//     cout<<"enter a value of a.\n";
-//     cin>>a;
-//     cout<<"enter value of b\n";
-//     cin>>b;
-//     if(a>b)
-//     {
-//         cout<<"max number:"<<a;
-//     }
-//     else
-//     {
-//         cout<<"max no:"<<b;
-//     }
 
+
+// {
+//     char a;
+//     cout<<"enter a alphabet";
+//     cin>>a;
+//     if(a =='a'|| a=='e' || a=='i' || a=='o' || a=='u')
+//     {
+//         cout<<"is vowel";
+//     }
+//     else{
+//         cout<<"consonet";
+//     }
 
 // }
-{
-    char alp;
-    cout<<"enter a alphabet";
-    cin>>alp;
-    if(alp=='e'||alp=='a ')
-    {
-        cout<<"is vowel";
-    }
-    else{
-        cout<<"consonet";
-    }
-
-}
